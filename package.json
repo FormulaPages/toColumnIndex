@@ -1,19 +1,19 @@
 {
-  "name": "formula-tocolumn",
+  "name": "formula-tocolumnindex",
   "version": "1.0.0",
-  "description": "Utility function to convert column index to column letter name ",
+  "description": "A utility function to convert column letter to column index.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FormulaPages/toColumn.git"
+    "url": "git+https://github.com/FormulaPages/toColumnIndex.git"
   },
   "author": "Peter Moresi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/FormulaPages/toColumn/issues"
+    "url": "https://github.com/FormulaPages/toColumnIndex/issues"
   },
-  "homepage": "https://github.com/FormulaPages/toColumn#readme"
+  "homepage": "https://github.com/FormulaPages/toColumnIndex#readme"
 }
