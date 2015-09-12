@@ -1,7 +1,7 @@
 #+TITLE: formula-iscolumn
 
 #+BEGIN_SRC js :tangle toColumnIndex.es6
-  let toColumnMem = [];
+
   export default function(column) {
 
       // convert the column name into the column index

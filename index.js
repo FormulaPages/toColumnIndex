@@ -13,8 +13,6 @@
 })(this, function (exports, module) {
     'use strict';
 
-    var toColumnMem = [];
-
     module.exports = function (column) {
 
         // convert the column name into the column index

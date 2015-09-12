@@ -1,5 +1,4 @@
 
-let toColumnMem = [];
 export default function(column) {
 
     // convert the column name into the column index
